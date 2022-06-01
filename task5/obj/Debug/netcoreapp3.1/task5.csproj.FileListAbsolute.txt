@@ -1,0 +1,14 @@
+C:\Users\ferha\Desktop\Code\csharp_TryCatch\task5\bin\Debug\netcoreapp3.1\task5.exe
+C:\Users\ferha\Desktop\Code\csharp_TryCatch\task5\bin\Debug\netcoreapp3.1\task5.deps.json
+C:\Users\ferha\Desktop\Code\csharp_TryCatch\task5\bin\Debug\netcoreapp3.1\task5.runtimeconfig.json
+C:\Users\ferha\Desktop\Code\csharp_TryCatch\task5\bin\Debug\netcoreapp3.1\task5.runtimeconfig.dev.json
+C:\Users\ferha\Desktop\Code\csharp_TryCatch\task5\bin\Debug\netcoreapp3.1\task5.dll
+C:\Users\ferha\Desktop\Code\csharp_TryCatch\task5\bin\Debug\netcoreapp3.1\task5.pdb
+C:\Users\ferha\Desktop\Code\csharp_TryCatch\task5\obj\Debug\netcoreapp3.1\task5.csproj.AssemblyReference.cache
+C:\Users\ferha\Desktop\Code\csharp_TryCatch\task5\obj\Debug\netcoreapp3.1\task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferha\Desktop\Code\csharp_TryCatch\task5\obj\Debug\netcoreapp3.1\task5.AssemblyInfoInputs.cache
+C:\Users\ferha\Desktop\Code\csharp_TryCatch\task5\obj\Debug\netcoreapp3.1\task5.AssemblyInfo.cs
+C:\Users\ferha\Desktop\Code\csharp_TryCatch\task5\obj\Debug\netcoreapp3.1\task5.csproj.CoreCompileInputs.cache
+C:\Users\ferha\Desktop\Code\csharp_TryCatch\task5\obj\Debug\netcoreapp3.1\task5.dll
+C:\Users\ferha\Desktop\Code\csharp_TryCatch\task5\obj\Debug\netcoreapp3.1\task5.pdb
+C:\Users\ferha\Desktop\Code\csharp_TryCatch\task5\obj\Debug\netcoreapp3.1\task5.genruntimeconfig.cache
